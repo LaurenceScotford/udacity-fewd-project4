@@ -1,3 +1,5 @@
+IMPORTANT NOTE: The starter code for this project used the Google Feed Reader API, which is no longer current. As a result, this code currently runs with errors and should be treated as an archive of my solution rather than an active project.
+
 # Feedreader test
 
 This project has been set up to run a series of tests to verify the functionality of the Feedreader app is as expected.
